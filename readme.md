@@ -1,4 +1,6 @@
-# 신체 정보 기반 Parametric Body 구현 On Windows 10
+![title](https://user-images.githubusercontent.com/40852277/74530803-50ded880-4f6e-11ea-9c66-f106a129ab84.png)
+
+# UDP 통신 기반 Parametric Body 구현 on Windows 10
 
 ![image](https://user-images.githubusercontent.com/40852277/72328580-85087480-36f6-11ea-97e5-002cba193d83.png)
 
@@ -231,12 +233,15 @@ public class Testing : MonoBehaviour
 - kau_esc@naver.com
 - kimyc1223@keti.re.kr
 
-
 <br><br><br>
 
 ---
 
-# Parametric Body Estimation On Windows 10
+
+
+![제목 없음-4](https://user-images.githubusercontent.com/40852277/74530798-4e7c7e80-4f6e-11ea-8b4f-03601e288ef4.png)
+
+# UDP Protocol based Parametric Body Estimation On Windows 10
 
 ![image](https://user-images.githubusercontent.com/40852277/72328580-85087480-36f6-11ea-97e5-002cba193d83.png)
 
@@ -334,7 +339,9 @@ the verification process was conducted based on the profiles of korean celebrity
 
 ![image](https://user-images.githubusercontent.com/40852277/72319456-8af45a80-36e2-11ea-88ed-2f31fcb3f27d.png)
 
-It is suitable and the result is based on the height and weight of the person.
+This looks like suitable!
+
+And the result is based on the height and weight of the person.
 
 The more specific you are, the more likely it is real.
 

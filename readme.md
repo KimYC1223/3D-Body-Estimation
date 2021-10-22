@@ -12,7 +12,7 @@ Reference: [3D Human Body Reshaping with Anthropometric Modeling] (https://link.
 
 1-1. This work is done in Windows.
 
-1-2. Git clone Navigate to the desired folder (here C: \ src), and use `` git@github.com: KimYC1223 / 3D-Body-Estimation.git```
+1-2. Git clone Navigate to the desired folder (here C: \ src), and use ```git@github.com: KimYC1223 / 3D-Body-Estimation.git```
 
 1-3. When done, go to ```C:\src\3D-Body-Estimation\whl``` and install Python 3.7.
 

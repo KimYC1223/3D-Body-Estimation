@@ -173,13 +173,13 @@ If  receive a good message on port 5566, ```UDP_Demo.py``` save the OBJ file and
 
 ## 4 . Usage example
 
-#### Unity-Python Combine
+#### 1. Unity-Python Combine
 
 Apply this project so that it can be loaded from the external program Unity.
 
 #### 2 . Unity-Python communication
 
-![image](https://user-images.githubusercontent.com/40852277/73253438-e274e900-41ff-11ea-85f6-85e585a41ca2.png)
+![image](https://user-images.githubusercontent.com/40852277/138550456-12f2298a-aeb2-4339-99b3-dbcb6dc1c38d.png)
 
 Unity <-> Python is communicated by UDP protocol.
 
@@ -236,6 +236,7 @@ You can see it works very well.
 
 ### Contact
 
+- [⭐️ Github issue page](https://github.com/KimYC1223/3D-Body-Estimation/issues)
 - kau_esc@naver.com
 - kimyc1223@keti.re.kr
 
@@ -475,5 +476,6 @@ public class Testing : MonoBehaviour
 
 ### 연락처
 
+- [⭐️ Github issue page](https://github.com/KimYC1223/3D-Body-Estimation/issues)
 - kau_esc@naver.com
 - kimyc1223@keti.re.kr
